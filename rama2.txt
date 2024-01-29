@@ -1,0 +1,2 @@
+linea nueva en rama2.txt
+segunda linea nueva en rama2.txt
